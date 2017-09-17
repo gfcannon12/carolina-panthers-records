@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexa/skill-sample-nodejs-highlowgame.git"
+    "url": "https://github.com/gfcannon12/carolina-panthers-records"
   },
   "keywords": [
     "Panthers",
@@ -21,9 +21,8 @@
   "author": "Gray Cannon",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alexa/skill-sample-nodejs-highlowgame/issues"
+    "url": "https://github.com/gfcannon12/carolina-panthers-records/issues"
   },
-  "homepage": "https://github.com/alexa/skill-sample-nodejs-highlowgame#readme",
   "dependencies": {
     "aws-sdk": "^2.117.0"
   }
