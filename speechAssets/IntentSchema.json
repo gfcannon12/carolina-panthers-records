@@ -1,0 +1,47 @@
+{
+  "intents": [ {
+    	"intent": "recordIntent",
+    	"slots": [ 
+        	{
+        		"name" : "stat",
+        		"type": "LIST_OF_STATS"
+      		},
+            {
+        		"name" : "time",
+        		"type": "TIME_PERIOD"
+      		}
+		] 
+		},
+        {
+		"intent": "touchdownRecordIntent",
+    	"slots": [ 
+        	{
+        		"name" : "stat",
+        		"type": "LIST_OF_STATS"
+      		},
+            {
+        		"name" : "time",
+        		"type": "TIME_PERIOD"
+      		}
+		]
+        },
+        {
+        "intent": "seasonIntent"
+        },
+        {
+        "intent": "coachIntent"
+        },
+        {
+        "intent": "fanIntent"
+        },
+      	{
+      		"intent": "AMAZON.StopIntent"
+      	},
+      	{
+      		"intent": "AMAZON.CancelIntent"
+      	},
+      	{
+      		"intent": "AMAZON.HelpIntent"
+      	}
+	] 
+}

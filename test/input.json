@@ -1,0 +1,30 @@
+{
+    "session": {
+      "sessionId": "SessionId.Session1",
+      "application": {
+        "applicationId": "amzn1.ask.skill.de659994-40e8-4eb5-8db0-45b4e5c146a0"
+      },
+      "user": {
+        "userId": "amzn1.ask.account.AKIAJWTJEYLI44DFTQKQ"
+      },
+      "new": true
+    },
+    "request": {
+        "type": "IntentRequest",
+        "requestId": "EdwRequestId.7eca812f-2aaa-48a0-8a32-17555df49e8d",
+        "intent": {
+          "name": "touchdownRecordIntent",
+          "slots": {
+            "stat": {
+              "name": "stat",
+              "value": "passing"
+            },
+            "time": {
+              "name": "time"
+            }
+          }
+        },
+        "locale": "en-US",
+        "timestamp": "2017-09-17T16:52:52Z"
+    }
+}    

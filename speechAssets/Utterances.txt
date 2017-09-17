@@ -1,0 +1,35 @@
+recordIntent Who is the Carolina Panthers {time} leading {stat}
+recordIntent Who is the Carolina Panthers {time} leader in {stat}
+recordIntent Who has the most {stat} yards in Panthers {time}
+recordIntent Who has the most {stat} in Panthers {time}
+recordIntent What is the {time} record for {stat} yards
+recordIntent What is the {time} record for {stat}
+recordIntent Who has the {time} record for {stat}
+recordIntent Who has the {time} record for {stat} yards
+recordIntent What is the record for {time} {stat}
+recordIntent Who has the record for {time} {stat}
+touchdownRecordIntent Who is the Carolina Panthers {time} leader in {stat} touchdowns
+touchdownRecordIntent Who has the most {stat} touchdowns in Panthers {time}
+touchdownRecordIntent What is the {time} record for {stat} touchdowns
+touchdownRecordIntent Who has the {time} record for {stat} touchdowns
+touchdownRecordIntent Who is the Carolina Panthers {time} leader in {stat} TD's
+touchdownRecordIntent Who has the most {stat} touchdowns in Panthers {time}
+touchdownRecordIntent Who has the most {stat} TD's in Panthers {time}
+touchdownRecordIntent What is the {time} record for {stat} TD's
+touchdownRecordIntent Who has the {time} record for {stat} TD's
+touchdownRecordIntent Who is the Carolina Panthers {time} leader in {stat} tvs
+touchdownRecordIntent Who has the most {stat} tvs in Panthers {time}
+touchdownRecordIntent What is the {time} record for {stat} tvs
+touchdownRecordIntent Who has the {time} record for {stat} tvs
+touchdownRecordIntent What is the record for {time} {stat} touchdowns
+touchdownRecordIntent Who has the record for {time} {stat} touchdowns
+touchdownRecordIntent What is the record for {time} {stat} tvs
+touchdownRecordIntent Who has the record for {time} {stat} tvs
+touchdownRecordIntent What is the record for {time} {stat} TD's
+touchdownRecordIntent Who has the record for {time} {stat} TD's
+seasonIntent What was the best season in Panthers history
+coachIntent Which coach has the most wins in Panthers history
+coachIntent Which coach has the most all-time wins
+coachIntent Who has the most coaching wins
+fanIntent Who is the best Carolina Panthers fan
+AMAZON.HelpIntent Help
